@@ -26,6 +26,3 @@ service2:
 
 ingress:
   name: nginx-ingress
-  paths:
-    - /
-    - /hello
